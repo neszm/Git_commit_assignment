@@ -1,3 +1,11 @@
+This is Mark's diary for the Git Usage assignment
+
+
+
+This is the initial commit and day #1 for the Git Usage assignment.
+
+
+
 This is day #2
 
 Today is Tuesday. My invitation to my great classmate, Sven, did not play out well, even though I messaged him yesterday that I sent him the repository invite.

@@ -1,3 +1,3 @@
 # Git_commit_assignment
 
-This is the initial commit and day #1 for the Git commit assignment.
+This is a repository for Mark Neszmelyi & Sven Bruning to complete their "Git Usage" assignment.
