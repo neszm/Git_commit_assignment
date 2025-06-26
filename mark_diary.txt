@@ -20,3 +20,8 @@ This is day #3
 Today is Wednesday. I haven't done much today, but watched the MotoGP and ate some fries & snitzel. I might go and meet up with Goncalo later today.
 Sadly, Sven still did not accept the invitation to the repository. 
 For the group project resit, I have done my part: added all the chapters and added more than half of the Technical advice as well. Hopefully, everyone will do their part soon and we can be done!
+
+
+This is day #4
+
+This is a bit late. but I was busy all day so I sadly, forgot to do the commit earlier. Had a good day i would say, but kinda sad how much everyone else is caring about the resits.
